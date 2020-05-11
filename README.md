@@ -1,4 +1,4 @@
-**關鍵字**
+**關鍵字**
 - closure
 - @escape
 - binding/ @state / private
